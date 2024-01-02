@@ -1,25 +1,12 @@
-This project analyzes 911 response data from Montgomery County, Pennsylvania, from 2016 until 2019, inclusive.
+This project analyzes 911 response data from Montgomery County, Pennsylvania, from 2016 until 2019, inclusive. I worked and volunteered in the EMS world from 2005-2012, so this data is of particular interest to me.
 
-The list of possibilities for analysis with this dataset is limitless. I decided to choose pointers that I felt would allow for good data-driven operational decisions.
+The list of possibilities for analysis with this dataset is limitless. I decided to choose pointers that I felt would allow for good data-driven operational decisions such as:
 
-The columns of the main dataset are as follows:
--'lat': The lattitudinal coorindates of the call
--'lng': The longitudinal coordinates of the call
--'desc': the full address, date of call, and time of call, concatenated
--'zip': The zip code in which the call occured
--'title': Lists the primary call type (i.e. FIRE/EMS/TRAFFIC), followed by the SECONDARY call type (i.e. CARDIAC EMERGENCY)
--'timeStamp': The date/time when call was dispatched
--'twp': The township in which the call occured.
--'addr': The address of the incident
--'e': The count of incident. This is "1" for each incident
--'calltype': This is the primary call type category of the incident (EMS, FIRE, or TRAFFIC)
--'year': The year in which the incident occured
--'month': The year in which the incident occured
--'day': The day in which the incident occured
--'hour': The hour in which the incident occured (0=12:00-12:59 AM, 23= 11:00-11:59 PM)
--'date': The date, in format YYYY-MM-DD
--'dayofweek' The day of the week (i.e. "Monday" or "Tuesday")
--'calltype2': The secondary call type category of the incident (i.e. "CARDIAC ARREST" or "FIRE ALARM")
+    -Prioritizing subject matter for training drills
+    -Geographical areas to place personnel
+    -When to see about allowing for additional staffing--or partnering with additional resource agencies.
+    -Predicting likelihood of an increase in call count of certain nature over a given year, a given month,       or a given day of the week
+    
 
 
 THE FOLLOWING WILL BE EXPLORED:
