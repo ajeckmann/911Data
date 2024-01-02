@@ -34,17 +34,20 @@ THE FOLLOWING WILL BE EXPLORED:
 
 -The Average Number Of Daily Calls By Month Over The Course OF A Year (EMS, FIRE, TRAFFIC)
 
-In other words, was a month consistently correlated with higher or lower daily call count?
-An example might be: Did Traffic incidents increase in the winter months due to bad weather?
-Townships With Highest Call Volume (EMS, FIRE, TRAFFIC)
+    - In other words, was a month consistently correlated with higher or lower daily call count?
+    - An example might be: Did Traffic incidents increase in the winter months due to bad weather?
+    
+-Townships With Highest Call Volume (EMS, FIRE, TRAFFIC)
 
-Average Hourly Call Count Based on the Hour of the Day (All calls, EMS, FIRE, TRAFFIC)
+-Average Hourly Call Count Based on the Hour of the Day (All calls, EMS, FIRE, TRAFFIC)
 
-Average Hourly Call Count Based on the Day of the Week (All calls, EMS, FIRE, TRAFFIC)
+-Average Hourly Call Count Based on the Day of the Week (All calls, EMS, FIRE, TRAFFIC)
 
-Correlation between Day or hour of week and Specific call type (most relevant for EMS)
+-Correlation between Day or hour of week and Specific call type (most relevant for EMS)
 
-For instance:
-Were there were more FALL-related EMS calls during a particular hour of the week? (between 8-9 am on a Sunday?)
-Were there more OVERDOSE-related calls on Saturdays?
-Most prevalent secondary call types in each jurisdiction (most relevant for EMS)
+  -For instance:
+    -Were there were more FALL-related EMS calls during a particular hour of the week? (between 8-9 am on a 
+     Sunday?)
+    -Were there more OVERDOSE-related calls on Saturdays?
+    
+-Most prevalent secondary call types in each jurisdiction (most relevant for EMS)
